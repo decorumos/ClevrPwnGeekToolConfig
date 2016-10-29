@@ -10,6 +10,10 @@ sub out pics in folders with whatever you want,
 
 SF wallpapers found in screenshots can be found as well as many others [here] (https://drive.google.com/file/d/0Bwep9WOz26hDQXVIZHBoVF9zMU0/edit)
 
+to remove dock drop this line in terminal
+
+```defaults write com.apple.dock autohide -bool true && defaults write com.apple.dock autohide-delay -float 0 && defaults write com.apple.dock autohide-time-modifier -float 0 && killall Dock```
+
 Open the glet's with GeekTool
 
 Done
