@@ -1,0 +1,6 @@
+{
+  "name": "Clevrpwngeektoolconfig",
+  "tagline": "My desktop config for GeekTool",
+  "body": "# ClevrPwnGeekToolConfig\r\n## Instructions\r\nMake sure SFUI Display fonts are installed [See Apple Dev Resources] (https://developer.apple.com/fonts/)\r\n\r\nMake sure nowplaying is put in the folowing location `/Users/$USER/nowplaying`\r\n\r\nput wallpaper folder in ``/Users/$USER/Pictures/``\r\n\r\nsub out pics in folders with whatever you want,\r\n\r\nSF wallpapers found in screenshots can be found as well as many others [here] (https://drive.google.com/file/d/0Bwep9WOz26hDQXVIZHBoVF9zMU0/edit)\r\n\r\nto remove dock drop this line in terminal\r\n\r\n```defaults write com.apple.dock autohide -bool true && defaults write com.apple.dock autohide-delay -float 0 && defaults write com.apple.dock autohide-time-modifier -float 0 && killall Dock```\r\n\r\nOpen the glet's with GeekTool\r\n\r\nDone\r\n\r\n## screenshot!\r\n![alt text](https://pbs.twimg.com/media/Cv5ALBGUIAA6HmT.jpg \"screenshot 1\")\r\n\r\n## To-Do\r\nAt some point if I get really stoned I might build some hacky way to make spotlight launch every time the desktop is viewed\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
