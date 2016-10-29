@@ -4,7 +4,7 @@ Make sure SFUI Display fonts are installed [See Apple Dev Resources] (https://de
 
 Make sure nowplaying is put in the folowing location `/Users/$USER/nowplaying`
 
-put wallpaper folder in /Users/YOUR_USER_NAME/Pictures/
+put wallpaper folder in ``/Users/$USER/Pictures/``
 
 sub out pics in folders with whatever you want,
 
